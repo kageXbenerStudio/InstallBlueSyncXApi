@@ -12,7 +12,7 @@ BlueSyncXApi is a tool to meet the requirements of BlueSyncXSystem And It Works 
 - Access Storage Sdcard Files
 - Newed Version Terminal
 
-**Root Program Legecy Version**
+**Access Root**
 - sudo Access level (In BlueSyncXApiLegecy Available In Package Installer BlueSX)
 - Advance BlueSyncXSystem
 - Access Storage Sdcard Files
